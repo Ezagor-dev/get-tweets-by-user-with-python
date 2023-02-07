@@ -1,5 +1,9 @@
 # get-tweets-by-user-with-python
-Get TWEETS by User and Hashtag with Python for earthquake
+
+![image](https://user-images.githubusercontent.com/45847677/217296507-241a9a52-260c-4dc4-8ae1-7dfbcfdb5f99.png)
+
+
+Get TWEETS by User and Keyword with Python for earthquake
 
 ![image](https://user-images.githubusercontent.com/45847677/217295620-8bf0b099-d559-4685-b81b-1832e35a399c.png)
 
